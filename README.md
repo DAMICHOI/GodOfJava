@@ -11,10 +11,10 @@ Chpater 별로
 
 ## 정리해봅시다.
 
-- [Chapter 01. 프로그래밍이란 무엇인가?](#chapter-01)
+- [Chapter 01. 프로그래밍이란 무엇인가?](#chapter-01-프로그래밍이란-무엇인가)
 - [Chapter 02. Hello God Of Java](#chapter-02-hello-god-of-java)
-- [Chapter 03. 자바를 제대로 알려면 객체가 무엇인지를 알아야 해요.](#chapter-03-------)
-- [Chapter 04. 정보를 어디에 넣고 싶은데](#chapter-04----)
+- [Chapter 03. 자바를 제대로 알려면 객체가 무엇인지를 알아야 해요.](#chapter-03-자바를-제대로-알려면-객체가-무엇인지를-알아야-해요)
+- [Chapter 04. 정보를 어디에 넣고 싶은데](#chapter-04-정보를-어디에-넣고-싶은데)
 
 ---
 
