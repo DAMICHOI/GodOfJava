@@ -1,0 +1,16 @@
+package chapter05;
+
+public class OperatorTilde {
+	public static void main(String[] args) {
+		OperatorTilde sample = new OperatorTilde();
+		byte b = 127;
+		sample.printTildeResult(b);
+		b = 1;
+		sample.printTildeResult(b);
+	}
+
+	private void printTildeResult(byte b) {
+		System.out.println("Original value=" + b);
+		System.out.println("Tilde value=" + ~b);
+	}
+}
