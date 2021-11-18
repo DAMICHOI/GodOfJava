@@ -1,4 +1,4 @@
-package chapter06;
+package chapter09.b.control;
 
 public class ControlIf {
 	public static void main(String[] args) {

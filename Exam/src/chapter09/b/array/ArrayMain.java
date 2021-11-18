@@ -1,4 +1,4 @@
-package chapter07;
+package chapter09.b.array;
 
 public class ArrayMain {
 	public static void main(String[] args) {

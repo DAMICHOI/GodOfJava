@@ -1,4 +1,4 @@
-package chapter05;
+package chapter09.b.operator;
 
 public class OperatorConditional {
 	public static void main(String[] args) {
