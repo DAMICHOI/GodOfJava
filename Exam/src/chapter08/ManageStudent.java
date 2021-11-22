@@ -2,10 +2,12 @@ package chapter08;
 
 public class ManageStudent {
 	public static void main(String[] args) {
-		Student[] student = null;
-		ManageStudent management = new ManageStudent();
-		student = management.addStudent();
-		management.printStudents(student);
+		// Student[] student = null;
+		// ManageStudent management = new ManageStudent();
+		// student = management.addStudent();
+		// management.printStudents(student);
+		Student student = new Student("");
+		student.checkEquals();
 	}
 
 	public Student[] addStudent() {
