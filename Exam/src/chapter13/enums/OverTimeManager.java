@@ -1,4 +1,4 @@
-package chpater13.enums;
+package chapter13.enums;
 
 public class OverTimeManager {
 	public static void main(String[] args) {

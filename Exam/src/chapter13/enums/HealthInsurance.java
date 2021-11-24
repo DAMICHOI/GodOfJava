@@ -1,4 +1,4 @@
-package chpater13.enums;
+package chapter13.enums;
 
 public enum HealthInsurance {
 	LEVEL_ONE(1000, 1.0),

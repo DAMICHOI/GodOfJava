@@ -1,4 +1,4 @@
-package chpater13.impl.list;
+package chapter13.impl.list;
 
 public interface List {
 	public void add();

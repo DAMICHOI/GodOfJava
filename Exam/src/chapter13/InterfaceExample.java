@@ -1,7 +1,7 @@
-package chpater13;
+package chapter13;
 
-import chpater13.service.MemberManager;
-import chpater13.service.MemberManagerImpl;
+import chapter13.service.MemberManager;
+import chapter13.service.MemberManagerImpl;
 
 public class InterfaceExample {
 	public static void main(String[] args) {

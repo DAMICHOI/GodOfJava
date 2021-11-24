@@ -1,6 +1,6 @@
-package chpater13.service;
+package chapter13.service;
 
-import chpater13.model.MemberDTO;
+import chapter13.model.MemberDTO;
 
 public class MemberManagerImpl implements MemberManager{
 	@Override

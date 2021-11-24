@@ -1,4 +1,4 @@
-package chpater13.model;
+package chapter13.model;
 
 public class MemberDTO {
 	public String name;

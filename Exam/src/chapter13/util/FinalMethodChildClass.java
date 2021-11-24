@@ -1,4 +1,4 @@
-package chpater13.util;
+package chapter13.util;
 
 public class FinalMethodChildClass extends FinalMethodClass {
 	// public void printLog(String data) {

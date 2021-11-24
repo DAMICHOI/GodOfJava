@@ -1,4 +1,4 @@
-package chpater13.util;
+package chapter13.util;
 
 public class FinalVariable {
 	final int instanceVariable = 1;

@@ -1,4 +1,4 @@
-package chpater13.impl.list;
+package chapter13.impl.list;
 
 public abstract class AbstractList implements List{
 

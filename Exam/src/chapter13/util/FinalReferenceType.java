@@ -1,6 +1,6 @@
-package chpater13.util;
+package chapter13.util;
 
-import chpater13.model.MemberDTO;
+import chapter13.model.MemberDTO;
 
 public class FinalReferenceType {
 	final MemberDTO dto = new MemberDTO();

@@ -1,4 +1,4 @@
-package chpater13.enums;
+package chapter13.enums;
 
 public enum OverTimeValues2 {
 	THREE_HOUR(18000),
